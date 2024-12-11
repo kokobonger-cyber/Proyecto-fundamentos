@@ -1,0 +1,51 @@
+# Videojuegos y medio ambiente
+
+####  1.- Introducción
+El desarrollo de videojuegos, como cualquier actividad profesional, tiene un impacto ambiental. La industria de los videojuegos depende de equipos electrónicos para la programación, diseño, pruebas y distribución de sus productos, lo que genera residuos electrónicos y consumo energético significativo. Asi que veremos como puede un desarrollador de videojuegos mitigar este impacto
+
+#### 2.- Normativa Aplicable
+En regiones como Andalucía, la normativa vigente (Ley 7/2007 de Gestión Integrada de la Calidad Ambiental) obliga a adoptar medidas preventivas contra daños ambientales. Esto también es aplicable a las empresas tecnológicas y desarrolladores de videojuegos, quienes deben:
+
+1. Prevenir el uso ineficiente de recursos y evitar residuos innecesarios
+2. Asegurarse de que el reciclaje de dispositivos y componentes sea parte del proceso
+
+#### Sustancias Contaminantes en Dispositivos Electrónicos
+Los equipos utilizados por desarrolladores, como ordenadores y servidores, contienen materiales peligrosos:
+- Plomo en monitores CRT
+- Metales pesados en baterías y pilas
+- Policarbonatos en soportes ópticos como discos
+
+#### Practicas para Reducir el Impacto Ambiental
+Los desarrolladores pueden implementar varias acciones para minimizar su huella ecológica:
+
+1. **Optimizar el uso de equipos:**
+   - Apagar los dispositivos cuando no estén en uso.
+   - Utilizar equipos con certificación **Energy Star** o de bajo consumo
+   - Reducir software y hardware innecesario para alargar la vida útil del equipo.
+
+2. **Ahorro de energía:**
+   - Configurar estaciones de trabajo para evitar modos **standby** 													      innecesarios
+   - Implementar técnicas de computación eficiente.
+
+3. **Digitalización:**
+   - Priorizar el uso de herramientas digitales que reduzcan la necesidad de materiales físicos
+
+#### Reciclado en la Industria de Videojuegos
+La industria de videojuegos genera residuos que deben ser reciclados adecuadamente:
+
+1. **Toners y cartuchos:** Utilizar kits de recarga para minimizar el desperdicio.
+2. **Soportes ópticos:** Reciclar CDs y DVDs correctamente para recuperar elementos como el policarbonato
+3. **Equipamiento informático:** Asegurarse de que componentes como baterías y monitores sean tratados en puntos limpios o devueltos a los fabricantes
+
+#### Beneficios de la Sostenibilidad en el Desarrollo de Videojuegos
+1. **Reducción de Costos:** Equipos reciclados y eficientes generan menos gastos operativos
+2. **Mejora de la Imagen:** Empresas sostenibles atraen a una base de consumidores más consciente
+3. **Cumplimiento Normativo:** Evitar sanciones y contribuir a un medio ambiente más limpio
+
+#### Conclusión
+Los desarrolladores de videojuegos tienen un rol crucial en la protección del medio ambiente. Aplicar prácticas sostenibles y cumplir con normativas vigentes no solo beneficia al planeta, sino también fortalece a la industria a largo plazo
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NTkyNDc3NDRdfQ==
+-->
